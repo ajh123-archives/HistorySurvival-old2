@@ -1362,3 +1362,18 @@
 [16:45:54] [main/INFO]: Loading for game History Survival
 [16:45:54] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
 [16:46:10] [main/INFO]: Stopping!
+[16:54:15] [main/INFO]: Preparing to launch history survival client
+[16:54:15] [main/INFO]: History Survival client is ready to start.
+[16:54:15] [main/INFO]: Starting!
+[16:54:15] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:54:15] [main/INFO]: Loading for game History Survival
+[16:54:15] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:54:17] [main/INFO]: Stopping!
+[17:41:10] [main/INFO]: Preparing to launch history survival client
+[17:41:10] [main/INFO]: History Survival client is ready to start.
+[17:41:10] [main/INFO]: Starting!
+[17:41:10] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[17:41:10] [main/INFO]: Loading for game History Survival
+[17:41:10] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[17:41:10] [main/INFO]: Reloading ResourceManager: Default
+[17:41:21] [main/INFO]: Stopping!

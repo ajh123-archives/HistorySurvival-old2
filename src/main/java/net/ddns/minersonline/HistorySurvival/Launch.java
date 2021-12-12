@@ -1,7 +1,7 @@
 package net.ddns.minersonline.HistorySurvival;
 
-import net.ddns.minersonline.HistorySurvival.core.EngineManager;
-import net.ddns.minersonline.HistorySurvival.core.WindowManager;
+import net.ddns.minersonline.engine.core.EngineManager;
+import net.ddns.minersonline.engine.core.WindowManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.core.LoggerContext;
