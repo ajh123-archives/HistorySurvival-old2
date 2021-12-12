@@ -1,8 +1,8 @@
 package net.ddns.minersonline.HistorySurvival;
 
 import net.ddns.minersonline.engine.core.ILogic;
-import net.ddns.minersonline.engine.core.RenderManager;
-import net.ddns.minersonline.engine.core.WindowManager;
+import net.ddns.minersonline.engine.core.managers.RenderManager;
+import net.ddns.minersonline.engine.core.managers.WindowManager;
 import net.ddns.minersonline.engine.core.entity.Model;
 import net.ddns.minersonline.engine.core.loading.ObjectLoader;
 import org.apache.logging.log4j.LogManager;
@@ -25,8 +25,8 @@ public class GameLogic implements ILogic {
 
     @Override
     public void init() throws Exception {
-        renderer.init();
         LOGGER.info("Reloading ResourceManager: Default");
+        renderer.init();
 
         float[] vertices = {
                 -0.5f, 0.5f, 0f,
@@ -36,7 +36,12 @@ public class GameLogic implements ILogic {
                 0.5f, 0.5f, 0f,
                 -0.5f, 0.5f, 0f
         };
-        model = loader.loadModel(vertices);
+
+        int[] uvIndices = {
+                0, 1, 3,
+                3, 1, 2
+        };
+        model = loader.loadModel(vertices, uvIndices);
     }
 
     @Override

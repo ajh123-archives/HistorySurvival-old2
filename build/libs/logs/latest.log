@@ -1377,3 +1377,37 @@
 [17:41:10] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
 [17:41:10] [main/INFO]: Reloading ResourceManager: Default
 [17:41:21] [main/INFO]: Stopping!
+[18:34:00] [main/INFO]: Preparing to launch history survival client
+[18:34:00] [main/INFO]: History Survival client is ready to start.
+[18:34:00] [main/INFO]: Starting!
+[18:34:00] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[18:34:00] [main/INFO]: Loading for game History Survival
+[18:34:00] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[18:34:01] [main/INFO]: Reloading ResourceManager: Default
+[18:34:01] [main/FATAL]: java.lang.Exception: Unable to link shader program
+
+[18:35:47] [main/INFO]: Preparing to launch history survival client
+[18:35:47] [main/INFO]: History Survival client is ready to start.
+[18:35:47] [main/INFO]: Starting!
+[18:35:47] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[18:35:47] [main/INFO]: Loading for game History Survival
+[18:35:47] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[18:35:47] [main/INFO]: Reloading ResourceManager: Default
+[18:35:47] [main/FATAL]: java.lang.Exception: Unable to link shader program 
+[18:37:28] [main/INFO]: Preparing to launch history survival client
+[18:37:28] [main/INFO]: History Survival client is ready to start.
+[18:37:28] [main/INFO]: Starting!
+[18:37:28] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[18:37:28] [main/INFO]: Loading for game History Survival
+[18:37:28] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[18:37:28] [main/INFO]: Reloading ResourceManager: Default
+[18:37:28] [main/FATAL]: An error occurred!
+
+[18:39:52] [main/INFO]: Preparing to launch history survival client
+[18:39:52] [main/INFO]: History Survival client is ready to start.
+[18:39:52] [main/INFO]: Starting!
+[18:39:52] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[18:39:52] [main/INFO]: Loading for game History Survival
+[18:39:52] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[18:39:53] [main/INFO]: Reloading ResourceManager: Default
+[18:39:55] [main/INFO]: Stopping!

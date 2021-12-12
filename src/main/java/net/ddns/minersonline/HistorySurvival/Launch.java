@@ -1,7 +1,7 @@
 package net.ddns.minersonline.HistorySurvival;
 
-import net.ddns.minersonline.engine.core.EngineManager;
-import net.ddns.minersonline.engine.core.WindowManager;
+import net.ddns.minersonline.engine.core.managers.EngineManager;
+import net.ddns.minersonline.engine.core.managers.WindowManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.core.LoggerContext;
@@ -36,7 +36,8 @@ public class Launch {
         try {
             engineManager.start();
         } catch(Exception e) {
-            LOGGER.fatal(e);
+            LOGGER.fatal("An error occurred!");
+            e.printStackTrace();
         }
 
         while (!wm.windowShouldClose()){
