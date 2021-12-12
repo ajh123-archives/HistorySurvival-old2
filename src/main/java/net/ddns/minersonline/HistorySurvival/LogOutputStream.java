@@ -82,8 +82,8 @@ public class LogOutputStream extends OutputStream {
 
         if (mem.endsWith("\n")) {
             mem = mem.substring(0, mem.length() - 1);
+            flush();
         }
-        flush();
     }
 
     /**

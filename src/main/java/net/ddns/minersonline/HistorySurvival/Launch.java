@@ -12,11 +12,17 @@ import java.util.Objects;
 public class Launch {
     private static final Logger LOGGER = LogManager.getLogger(Launch.class);
     private static final WindowManager wm = new WindowManager("History Survival", 0, 0, false);
-    private static EngineManager engineManager;
+
+    public static GameLogic getGame() {
+        return game;
+    }
+
+    private static GameLogic game;
 
     public Launch(){
         LOGGER.info("History Survival client is ready to start.");
-        engineManager = new EngineManager();
+        game = new GameLogic();
+        EngineManager engineManager = new EngineManager();
         LOGGER.info("Starting!");
         LOGGER.info("Using default game log configuration log4j2.xml (outputs XML)");
         LoggerContext context = (LoggerContext) LogManager.getContext(false);

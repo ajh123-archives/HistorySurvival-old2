@@ -42,7 +42,7 @@ public class WindowManager {
 
     public void init() throws Exception{
         LOGGER.info("Backend library: LWJGL version "+ Version.getVersion());
-        GLFWErrorCallback.createPrint(new PrintStream(errorLog));
+        glfwSetErrorCallback(GLFWErrorCallback.createPrint(new PrintStream(errorLog)));
         if(!glfwInit()){
             throw new IllegalStateException("Unable to initialise GLFW");
         }
@@ -75,7 +75,7 @@ public class WindowManager {
         });
 
         glfwSetKeyCallback(window, (window, key, scancode, action, mods) -> {
-
+            //Maybe needed for the future
         });
 
         if(maximised){

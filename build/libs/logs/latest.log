@@ -79,3 +79,1286 @@
 [16:00:30] [main/INFO]: Loading for game History Survival
 [16:00:30] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
 [16:00:31] [main/INFO]: Stopping!
+[16:26:52] [main/INFO]: Preparing to launch history survival client
+[16:26:52] [main/INFO]: History Survival client is ready to start.
+[16:26:52] [main/INFO]: Starting!
+[16:26:52] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:26:52] [main/INFO]: Loading for game History Survival
+[16:26:52] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:26:52] [main/FATAL]: [
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: J
+[16:26:52] [main/FATAL]: G
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: ]
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: G
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: F
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: _
+[16:26:52] [main/FATAL]: I
+[16:26:52] [main/FATAL]: N
+[16:26:52] [main/FATAL]: V
+[16:26:52] [main/FATAL]: A
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: I
+[16:26:52] [main/FATAL]: D
+[16:26:52] [main/FATAL]: _
+[16:26:52] [main/FATAL]: V
+[16:26:52] [main/FATAL]: A
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: U
+[16:26:52] [main/FATAL]: E
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: D
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: p
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: I
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: O
+[16:26:52] [main/FATAL]: p
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: G
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: -
+[16:26:52] [main/FATAL]: 3
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: -
+[16:26:52] [main/FATAL]: 2
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: S
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: k
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]:  
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: f
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: G
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: F
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: f
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: C
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: (
+[16:26:52] [main/FATAL]: G
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: F
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 2
+[16:26:52] [main/FATAL]: 0
+[16:26:52] [main/FATAL]: 2
+[16:26:52] [main/FATAL]: 4
+[16:26:52] [main/FATAL]: )
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: f
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: G
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: F
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: f
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: C
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: (
+[16:26:52] [main/FATAL]: G
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: F
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 2
+[16:26:52] [main/FATAL]: 1
+[16:26:52] [main/FATAL]: 9
+[16:26:52] [main/FATAL]: 7
+[16:26:52] [main/FATAL]: )
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: m
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: H
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: y
+[16:26:52] [main/FATAL]: S
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: M
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: (
+[16:26:52] [main/FATAL]: W
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: w
+[16:26:52] [main/FATAL]: M
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 6
+[16:26:52] [main/FATAL]: 6
+[16:26:52] [main/FATAL]: )
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: m
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: H
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: y
+[16:26:52] [main/FATAL]: S
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: E
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: M
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: (
+[16:26:52] [main/FATAL]: E
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: M
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 3
+[16:26:52] [main/FATAL]: 3
+[16:26:52] [main/FATAL]: )
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: m
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: H
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: y
+[16:26:52] [main/FATAL]: S
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: E
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: M
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: (
+[16:26:52] [main/FATAL]: E
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: M
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: g
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 3
+[16:26:52] [main/FATAL]: 7
+[16:26:52] [main/FATAL]: )
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: m
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: H
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: y
+[16:26:52] [main/FATAL]: S
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: h
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: <
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: >
+[16:26:52] [main/FATAL]: (
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: h
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 3
+[16:26:52] [main/FATAL]: 1
+[16:26:52] [main/FATAL]: )
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: 	
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: d
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: m
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: e
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: H
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: s
+[16:26:52] [main/FATAL]: t
+[16:26:52] [main/FATAL]: o
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: y
+[16:26:52] [main/FATAL]: S
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: r
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: l
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: h
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: m
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: i
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: (
+[16:26:52] [main/FATAL]: L
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: u
+[16:26:52] [main/FATAL]: n
+[16:26:52] [main/FATAL]: c
+[16:26:52] [main/FATAL]: h
+[16:26:52] [main/FATAL]: .
+[16:26:52] [main/FATAL]: j
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: v
+[16:26:52] [main/FATAL]: a
+[16:26:52] [main/FATAL]: :
+[16:26:52] [main/FATAL]: 4
+[16:26:52] [main/FATAL]: 6
+[16:26:52] [main/FATAL]: )
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: 
+[16:26:52] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
+[16:28:21] [main/INFO]: Preparing to launch history survival client
+[16:28:21] [main/INFO]: History Survival client is ready to start.
+[16:28:21] [main/INFO]: Starting!
+[16:28:21] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:28:21] [main/INFO]: Loading for game History Survival
+[16:28:21] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:28:23] [main/INFO]: Stopping!
+[16:28:41] [main/INFO]: Preparing to launch history survival client
+[16:28:41] [main/INFO]: History Survival client is ready to start.
+[16:28:41] [main/INFO]: Starting!
+[16:28:41] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:28:41] [main/INFO]: Loading for game History Survival
+[16:28:41] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:28:41] [main/FATAL]: [
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: J
+[16:28:41] [main/FATAL]: G
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: ]
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: G
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: F
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: _
+[16:28:41] [main/FATAL]: I
+[16:28:41] [main/FATAL]: N
+[16:28:41] [main/FATAL]: V
+[16:28:41] [main/FATAL]: A
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: I
+[16:28:41] [main/FATAL]: D
+[16:28:41] [main/FATAL]: _
+[16:28:41] [main/FATAL]: V
+[16:28:41] [main/FATAL]: A
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: U
+[16:28:41] [main/FATAL]: E
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: D
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: p
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: I
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: O
+[16:28:41] [main/FATAL]: p
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: G
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: -
+[16:28:41] [main/FATAL]: 3
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: -
+[16:28:41] [main/FATAL]: 2
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: S
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: k
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]:  
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: f
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: G
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: F
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: f
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: C
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: (
+[16:28:41] [main/FATAL]: G
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: F
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 2
+[16:28:41] [main/FATAL]: 0
+[16:28:41] [main/FATAL]: 2
+[16:28:41] [main/FATAL]: 4
+[16:28:41] [main/FATAL]: )
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: f
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: G
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: F
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: f
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: C
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: (
+[16:28:41] [main/FATAL]: G
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: F
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 2
+[16:28:41] [main/FATAL]: 1
+[16:28:41] [main/FATAL]: 9
+[16:28:41] [main/FATAL]: 7
+[16:28:41] [main/FATAL]: )
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: m
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: H
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: y
+[16:28:41] [main/FATAL]: S
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: M
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: (
+[16:28:41] [main/FATAL]: W
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: w
+[16:28:41] [main/FATAL]: M
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 6
+[16:28:41] [main/FATAL]: 6
+[16:28:41] [main/FATAL]: )
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: m
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: H
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: y
+[16:28:41] [main/FATAL]: S
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: E
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: M
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: (
+[16:28:41] [main/FATAL]: E
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: M
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 3
+[16:28:41] [main/FATAL]: 3
+[16:28:41] [main/FATAL]: )
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: m
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: H
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: y
+[16:28:41] [main/FATAL]: S
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: E
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: M
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: (
+[16:28:41] [main/FATAL]: E
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: M
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: g
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 3
+[16:28:41] [main/FATAL]: 7
+[16:28:41] [main/FATAL]: )
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: m
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: H
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: y
+[16:28:41] [main/FATAL]: S
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: h
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: <
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: >
+[16:28:41] [main/FATAL]: (
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: h
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 3
+[16:28:41] [main/FATAL]: 1
+[16:28:41] [main/FATAL]: )
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: 	
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: d
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: m
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: e
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: H
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: s
+[16:28:41] [main/FATAL]: t
+[16:28:41] [main/FATAL]: o
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: y
+[16:28:41] [main/FATAL]: S
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: r
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: l
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: h
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: m
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: i
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: (
+[16:28:41] [main/FATAL]: L
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: u
+[16:28:41] [main/FATAL]: n
+[16:28:41] [main/FATAL]: c
+[16:28:41] [main/FATAL]: h
+[16:28:41] [main/FATAL]: .
+[16:28:41] [main/FATAL]: j
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: v
+[16:28:41] [main/FATAL]: a
+[16:28:41] [main/FATAL]: :
+[16:28:41] [main/FATAL]: 4
+[16:28:41] [main/FATAL]: 6
+[16:28:41] [main/FATAL]: )
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: 
+[16:28:41] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
+[16:31:56] [main/INFO]: Preparing to launch history survival client
+[16:31:56] [main/INFO]: History Survival client is ready to start.
+[16:31:56] [main/INFO]: Starting!
+[16:31:56] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:31:56] [main/INFO]: Loading for game History Survival
+[16:31:56] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:31:56] [main/FATAL]: [LWJGL] GLFW_INVALID_VALUE error
+[16:31:56] [main/FATAL]: 	Description : Invalid OpenGL version -3.-2
+[16:31:56] [main/FATAL]: 	Stacktrace  :
+[16:31:56] [main/FATAL]: 		org.lwjgl.glfw.GLFW.nglfwCreateWindow(GLFW.java:2024)
+[16:31:56] [main/FATAL]: 		org.lwjgl.glfw.GLFW.glfwCreateWindow(GLFW.java:2197)
+[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.core.WindowManager.init(WindowManager.java:66)
+[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.core.EngineManager.init(EngineManager.java:33)
+[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.core.EngineManager.start(EngineManager.java:37)
+[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:31)
+[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:46)
+[16:31:56] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
+[16:33:07] [main/INFO]: Preparing to launch history survival client
+[16:33:07] [main/INFO]: History Survival client is ready to start.
+[16:33:07] [main/INFO]: Starting!
+[16:33:07] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:33:07] [main/INFO]: Loading for game History Survival
+[16:33:07] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:33:09] [main/INFO]: Stopping!
+[16:45:12] [main/INFO]: Preparing to launch history survival client
+[16:45:12] [main/INFO]: History Survival client is ready to start.
+[16:45:12] [main/INFO]: Starting!
+[16:45:12] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:45:12] [main/INFO]: Loading for game History Survival
+[16:45:12] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:45:18] [main/INFO]: Stopping!
+[16:45:54] [main/INFO]: Preparing to launch history survival client
+[16:45:54] [main/INFO]: History Survival client is ready to start.
+[16:45:54] [main/INFO]: Starting!
+[16:45:54] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:45:54] [main/INFO]: Loading for game History Survival
+[16:45:54] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:46:10] [main/INFO]: Stopping!

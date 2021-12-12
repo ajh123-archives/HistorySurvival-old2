@@ -24,11 +24,15 @@ public class EngineManager {
     private boolean isRunning;
     private WindowManager window;
     private GLFWErrorCallback errorCallback;
+    private ILogic gameLogic;
 
     private void init() throws Exception{
         errorCallback = GLFWErrorCallback.createPrint(new PrintStream(errorLog));
+        glfwSetErrorCallback(errorCallback);
         window = Launch.getWindow();
+        gameLogic = Launch.getGame();
         window.init();
+        gameLogic.init();
     }
 
     public void start() throws Exception{
@@ -89,19 +93,21 @@ public class EngineManager {
     }
 
     private void input(){
-
+        gameLogic.input();
     }
 
     private void render(){
+        gameLogic.render();
         window.update();
     }
 
     private void update(){
-
+        gameLogic.update();
     }
 
     private void cleanUp(){
         window.cleanUp();
+        gameLogic.cleanUp();
         errorCallback.free();
         glfwTerminate();
     }
