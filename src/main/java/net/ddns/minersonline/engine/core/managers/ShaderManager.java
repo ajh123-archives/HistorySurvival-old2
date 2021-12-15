@@ -1,6 +1,8 @@
 package net.ddns.minersonline.engine.core.managers;
 
 import org.joml.Matrix4f;
+import org.joml.Vector3f;
+import org.joml.Vector4f;
 import org.lwjgl.opengl.GL20;
 import org.lwjgl.system.MemoryStack;
 
@@ -29,6 +31,22 @@ public class ShaderManager {
         uniforms.put(uniformName, ufLoc);
     }
 
+    public void setUniform(String uniformName, Vector4f vector) throws Exception{
+        try(MemoryStack stack = MemoryStack.stackPush()){
+            GL20.glUniform4f(uniforms.get(uniformName), vector.x, vector.y, vector.z, vector.w);
+        } catch (Exception e){
+            throw new Exception("Unable to locate uniform ("+uniformName+")");
+        }
+    }
+
+    public void setUniform(String uniformName, Vector3f vector) throws Exception{
+        try(MemoryStack stack = MemoryStack.stackPush()){
+            GL20.glUniform3f(uniforms.get(uniformName), vector.x, vector.y, vector.z);
+        } catch (Exception e){
+            throw new Exception("Unable to locate uniform ("+uniformName+")");
+        }
+    }
+
     public void setUniform(String uniformName, Matrix4f matrix) throws Exception{
         try(MemoryStack stack = MemoryStack.stackPush()){
             GL20.glUniformMatrix4fv(uniforms.get(uniformName), false, matrix.get(stack.mallocFloat(16)));
@@ -37,9 +55,29 @@ public class ShaderManager {
         }
     }
 
+    public void setUniform(String uniformName, boolean bool) throws Exception{
+        float boolF =0;
+        if(bool){
+            boolF=1;
+        }
+        try {
+            GL20.glUniform1f(uniforms.get(uniformName), boolF);
+        }catch (Exception e){
+            throw new Exception("Unable to locate uniform ("+uniformName+")");
+        }
+    }
+
     public void setUniform(String uniformName, int number) throws Exception{
         try {
             GL20.glUniform1i(uniforms.get(uniformName), number);
+        }catch (Exception e){
+            throw new Exception("Unable to locate uniform ("+uniformName+")");
+        }
+    }
+
+    public void setUniform(String uniformName, float number) throws Exception{
+        try {
+            GL20.glUniform1f(uniforms.get(uniformName), number);
         }catch (Exception e){
             throw new Exception("Unable to locate uniform ("+uniformName+")");
         }

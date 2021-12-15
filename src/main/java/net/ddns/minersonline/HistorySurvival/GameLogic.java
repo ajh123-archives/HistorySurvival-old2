@@ -1,6 +1,7 @@
 package net.ddns.minersonline.HistorySurvival;
 
 import net.ddns.minersonline.engine.core.ILogic;
+import net.ddns.minersonline.engine.core.entity.Entity;
 import net.ddns.minersonline.engine.core.entity.Texture;
 import net.ddns.minersonline.engine.core.managers.RenderManager;
 import net.ddns.minersonline.engine.core.managers.WindowManager;
@@ -8,6 +9,7 @@ import net.ddns.minersonline.engine.core.entity.Model;
 import net.ddns.minersonline.engine.core.loading.ObjectLoader;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.joml.Vector3f;
 import org.lwjgl.opengl.GL11;
 
 public class GameLogic implements ILogic {
@@ -16,7 +18,7 @@ public class GameLogic implements ILogic {
     private final RenderManager renderer;
     private final WindowManager window;
     private final ObjectLoader loader;
-    private Model model;
+    private Entity entity;
 
     public GameLogic(){
         renderer = new RenderManager();
@@ -47,12 +49,12 @@ public class GameLogic implements ILogic {
                 1, 1,
                 1, 0
         };
-        model = loader.loadModel(vertices, TCCs, uvIndices);
-        int errorCode = GL11.glGetError();
-        if (errorCode != GL11.GL_NO_ERROR) {
-            throw new RuntimeException("OpenGL error " + errorCode+ " after loading model" );
-        }
+        Model model = loader.loadModel(vertices, TCCs, uvIndices);
         model.setTexture(new Texture(loader.loadTextureResource("/textures/grass_block.png")));
+        entity = new Entity(model,
+                new Vector3f(.5f, 0, 0),
+                new Vector3f(0, 0, 0),
+                1f);
     }
 
     @Override
@@ -72,7 +74,7 @@ public class GameLogic implements ILogic {
             GL11.glViewport(0, 0, window.getWidth(), window.getHeight());
             window.setResize(true);
         }
-        renderer.render(model);
+        renderer.render(entity);
     }
 
     @Override

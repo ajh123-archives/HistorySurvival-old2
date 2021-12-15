@@ -5,7 +5,9 @@ in vec2 tccs;
 
 out vec2 ftccs;
 
+uniform mat4 transMatrix;
+
 void main(){
-    gl_Position = vec4(pos, 1.0);
+    gl_Position = transMatrix * vec4(pos, 1.0);
     ftccs = tccs;
 }
