@@ -1,6 +1,7 @@
 package net.ddns.minersonline.HistorySurvival;
 
 import net.ddns.minersonline.engine.core.ILogic;
+import net.ddns.minersonline.engine.core.entity.Texture;
 import net.ddns.minersonline.engine.core.managers.RenderManager;
 import net.ddns.minersonline.engine.core.managers.WindowManager;
 import net.ddns.minersonline.engine.core.entity.Model;
@@ -32,16 +33,26 @@ public class GameLogic implements ILogic {
                 -0.5f, 0.5f, 0f,
                 -0.5f, -0.5f, 0f,
                 0.5f, -0.5f, 0f,
-                0.5f, -0.5f, 0f,
-                0.5f, 0.5f, 0f,
-                -0.5f, 0.5f, 0f
+                0.5f, 0.5f, 0f
         };
 
         int[] uvIndices = {
                 0, 1, 3,
                 3, 1, 2
         };
-        model = loader.loadModel(vertices, uvIndices);
+
+        float[] TCCs = {
+                0, 0,
+                0, 1,
+                1, 1,
+                1, 0
+        };
+        model = loader.loadModel(vertices, TCCs, uvIndices);
+        int errorCode = GL11.glGetError();
+        if (errorCode != GL11.GL_NO_ERROR) {
+            throw new RuntimeException("OpenGL error " + errorCode+ " after loading model" );
+        }
+        model.setTexture(new Texture(loader.loadTextureResource("/textures/grass_block.png")));
     }
 
     @Override
@@ -55,7 +66,8 @@ public class GameLogic implements ILogic {
     }
 
     @Override
-    public void render() {
+    public void render() throws Exception {
+        renderer.clear();
         if(window.isResize()){
             GL11.glViewport(0, 0, window.getWidth(), window.getHeight());
             window.setResize(true);

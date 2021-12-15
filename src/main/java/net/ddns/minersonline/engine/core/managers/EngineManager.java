@@ -44,7 +44,7 @@ public class EngineManager {
         run();
     }
 
-    private void run(){
+    private void run() throws Exception{
         isRunning = true;
         int frames = 0;
         long frameCounter = 0;
@@ -97,7 +97,7 @@ public class EngineManager {
         gameLogic.input();
     }
 
-    private void render(){
+    private void render() throws Exception{
         gameLogic.render();
         window.update();
     }

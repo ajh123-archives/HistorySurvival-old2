@@ -36,8 +36,7 @@ public class Launch {
         try {
             engineManager.start();
         } catch(Exception e) {
-            LOGGER.fatal("An error occurred!");
-            e.printStackTrace();
+            LOGGER.fatal("An error occurred!", e);
         }
 
         while (!wm.windowShouldClose()){

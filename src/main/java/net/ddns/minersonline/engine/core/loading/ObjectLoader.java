@@ -2,10 +2,8 @@ package net.ddns.minersonline.engine.core.loading;
 
 import net.ddns.minersonline.engine.core.entity.Model;
 import net.ddns.minersonline.engine.core.utils.Utils;
-import org.lwjgl.opengl.GL11;
-import org.lwjgl.opengl.GL15;
-import org.lwjgl.opengl.GL20;
-import org.lwjgl.opengl.GL30;
+import org.lwjgl.BufferUtils;
+import org.lwjgl.opengl.*;
 import org.lwjgl.stb.STBImage;
 import org.lwjgl.system.MemoryStack;
 
@@ -14,6 +12,10 @@ import java.nio.FloatBuffer;
 import java.nio.IntBuffer;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
+
+import static net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer;
+import static org.lwjgl.stb.STBImage.stbi_load_from_memory;
 
 public class ObjectLoader {
     private final List<Integer> VAOs = new ArrayList<>();
@@ -45,15 +47,64 @@ public class ObjectLoader {
             height = h.get();
 
         }
+        int errorCode = GL11.glGetError();
+        if (errorCode != GL11.GL_NO_ERROR) {
+            throw new RuntimeException("OpenGL error " + errorCode+ " before loading texture: " + fileName);
+        }
         int id = GL11.glGenTextures();
         TCCs.add(id);
         GL11.glBindTexture(GL11.GL_TEXTURE_2D, id);
         GL11.glPixelStorei(GL11.GL_UNPACK_ALIGNMENT, 1);
+        // Use linear filtering for texture scaling
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MIN_FILTER, GL11.GL_LINEAR);
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MAG_FILTER, GL11.GL_LINEAR);
+
+        // Clamp texture co-ordinates between 0 and 1
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_S, GL12.GL_CLAMP_TO_EDGE);
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_T, GL12.GL_CLAMP_TO_EDGE);
+
         GL11.glTexImage2D(GL11.GL_TEXTURE_2D, 0, GL11.GL_RGBA, width, height, 0, GL11.GL_RGBA, GL11.GL_UNSIGNED_BYTE, buffer);
         GL30.glGenerateMipmap(GL11.GL_TEXTURE_2D);
         STBImage.stbi_image_free(buffer);
         return id;
     }
+
+    public int loadTextureResource(String fileName) throws Exception{
+        int width, height;
+        ByteBuffer data;
+        try(MemoryStack stack = MemoryStack.stackPush()) {
+            IntBuffer w = stack.mallocInt(1);
+            IntBuffer h = stack.mallocInt(1);
+            IntBuffer c = stack.mallocInt(1);
+            data = stbi_load_from_memory(ioResourceToByteBuffer(fileName), w, h, c, 4);
+            if (data == null) {
+                throw new Exception("Unable to load texture (" + fileName + ") | " + STBImage.stbi_failure_reason());
+            }
+            width = w.get();
+            height = h.get();
+        }
+        int errorCode = GL11.glGetError();
+        if (errorCode != GL11.GL_NO_ERROR) {
+            throw new RuntimeException("OpenGL error " + errorCode+ " before loading texture: " + fileName);
+        }
+        int id = GL11.glGenTextures();
+        TCCs.add(id);
+        GL11.glBindTexture(GL11.GL_TEXTURE_2D, id);
+        GL11.glPixelStorei(GL11.GL_UNPACK_ALIGNMENT, 1);
+        // Use linear filtering for texture scaling
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MIN_FILTER, GL11.GL_LINEAR);
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MAG_FILTER, GL11.GL_LINEAR);
+
+        // Clamp texture co-ordinates between 0 and 1
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_S, GL12.GL_CLAMP_TO_EDGE);
+        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_T, GL12.GL_CLAMP_TO_EDGE);
+
+        GL11.glTexImage2D(GL11.GL_TEXTURE_2D, 0, GL11.GL_RGBA, width, height, 0, GL11.GL_RGBA, GL11.GL_UNSIGNED_BYTE, data);
+        GL30.glGenerateMipmap(GL11.GL_TEXTURE_2D);
+        STBImage.stbi_image_free(data);
+        return id;
+    }
+
 
     private int createVAO(){
         int id = GL30.glGenVertexArrays();
@@ -63,7 +114,7 @@ public class ObjectLoader {
     }
 
     private void storeIndicesBuffer(int[] indices){
-        int vbo = GL15.glGenQueries();
+        int vbo = GL15.glGenBuffers();
         VBOs.add(vbo);
         GL15.glBindBuffer(GL15.GL_ELEMENT_ARRAY_BUFFER, vbo);
         IntBuffer buffer = Utils.storeDataInIntBuffer(indices);

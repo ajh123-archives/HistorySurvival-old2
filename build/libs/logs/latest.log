@@ -1,1413 +1,466 @@
-[11:16:31] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[11:32:15] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[14:49:14] [main/INFO]: Preparing to launch history survival client
-[14:49:14] [main/INFO]: History Survival client is ready to start.
-[14:49:14] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[14:49:14] [main/INFO]: Starting!
-[14:49:14] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[14:52:50] [main/INFO]: Preparing to launch history survival client
-[14:52:50] [main/INFO]: History Survival client is ready to start.
-[14:52:50] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[14:52:50] [main/INFO]: Starting!
-[14:52:50] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[14:54:41] [main/INFO]: Preparing to launch history survival client
-[14:54:41] [main/INFO]: History Survival client is ready to start.
-[14:54:41] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[14:54:41] [main/INFO]: Starting!
-[14:54:41] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[14:55:35] [main/INFO]: Preparing to launch history survival client
-[14:55:35] [main/INFO]: History Survival client is ready to start.
-[14:55:35] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[14:55:35] [main/INFO]: Starting!
-[14:55:35] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[14:56:50] [main/INFO]: Preparing to launch history survival client
-[14:56:50] [main/INFO]: History Survival client is ready to start.
-[14:56:50] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[14:56:50] [main/INFO]: Starting!
-[14:56:50] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[15:00:13] [main/INFO]: Preparing to launch history survival client
-[15:00:13] [main/INFO]: History Survival client is ready to start.
-[15:00:13] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[15:00:13] [main/INFO]: Starting!
-[15:00:13] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[15:00:13] [main/INFO]: Loading for game History Survival
-[15:01:49] [main/INFO]: Preparing to launch history survival client
-[15:01:49] [main/INFO]: History Survival client is ready to start.
-[15:01:49] [main/INFO]: Starting!
-[15:01:49] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[15:01:49] [main/INFO]: Loading for game History Survival
-[15:01:49] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[15:01:56] [main/INFO]: Stopping!
-[15:02:25] [main/INFO]: Preparing to launch history survival client
-[15:02:25] [main/INFO]: History Survival client is ready to start.
-[15:02:25] [main/INFO]: Starting!
-[15:02:25] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[15:02:25] [main/INFO]: Loading for game History Survival
-[15:02:25] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[15:02:30] [main/INFO]: Stopping!
-[15:07:16] [main/INFO]: Preparing to launch history survival client
-[15:07:16] [main/INFO]: History Survival client is ready to start.
-[15:07:16] [main/INFO]: Starting!
-[15:07:16] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[15:07:16] [main/INFO]: Loading for game History Survival
-[15:07:16] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[15:07:25] [main/INFO]: Stopping!
-[15:31:02] [main/INFO]: Preparing to launch history survival client
-[15:31:02] [main/INFO]: History Survival client is ready to start.
-[15:31:02] [main/INFO]: Starting!
-[15:31:02] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[15:31:02] [main/INFO]: Loading for game History Survival
-[15:31:02] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[15:31:02] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
-[15:31:52] [main/INFO]: Preparing to launch history survival client
-[15:31:52] [main/INFO]: History Survival client is ready to start.
-[15:31:52] [main/INFO]: Starting!
-[15:31:52] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[15:31:52] [main/INFO]: Loading for game History Survival
-[15:31:52] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[15:31:52] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
-[15:59:56] [main/INFO]: Preparing to launch history survival client
-[15:59:56] [main/INFO]: History Survival client is ready to start.
-[15:59:56] [main/INFO]: Starting!
-[15:59:56] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[15:59:56] [main/INFO]: Loading for game History Survival
-[15:59:56] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:00:30] [main/INFO]: Preparing to launch history survival client
-[16:00:30] [main/INFO]: History Survival client is ready to start.
-[16:00:30] [main/INFO]: Starting!
-[16:00:30] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:00:30] [main/INFO]: Loading for game History Survival
-[16:00:30] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:00:31] [main/INFO]: Stopping!
-[16:26:52] [main/INFO]: Preparing to launch history survival client
-[16:26:52] [main/INFO]: History Survival client is ready to start.
-[16:26:52] [main/INFO]: Starting!
-[16:26:52] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:26:52] [main/INFO]: Loading for game History Survival
-[16:26:52] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:26:52] [main/FATAL]: [
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: J
-[16:26:52] [main/FATAL]: G
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: ]
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: G
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: F
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: _
-[16:26:52] [main/FATAL]: I
-[16:26:52] [main/FATAL]: N
-[16:26:52] [main/FATAL]: V
-[16:26:52] [main/FATAL]: A
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: I
-[16:26:52] [main/FATAL]: D
-[16:26:52] [main/FATAL]: _
-[16:26:52] [main/FATAL]: V
-[16:26:52] [main/FATAL]: A
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: U
-[16:26:52] [main/FATAL]: E
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: D
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: p
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: I
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: O
-[16:26:52] [main/FATAL]: p
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: G
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: -
-[16:26:52] [main/FATAL]: 3
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: -
-[16:26:52] [main/FATAL]: 2
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: S
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: k
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]:  
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: f
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: G
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: F
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: f
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: C
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: (
-[16:26:52] [main/FATAL]: G
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: F
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 2
-[16:26:52] [main/FATAL]: 0
-[16:26:52] [main/FATAL]: 2
-[16:26:52] [main/FATAL]: 4
-[16:26:52] [main/FATAL]: )
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: f
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: G
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: F
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: f
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: C
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: (
-[16:26:52] [main/FATAL]: G
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: F
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 2
-[16:26:52] [main/FATAL]: 1
-[16:26:52] [main/FATAL]: 9
-[16:26:52] [main/FATAL]: 7
-[16:26:52] [main/FATAL]: )
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: m
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: H
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: y
-[16:26:52] [main/FATAL]: S
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: M
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: (
-[16:26:52] [main/FATAL]: W
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: w
-[16:26:52] [main/FATAL]: M
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 6
-[16:26:52] [main/FATAL]: 6
-[16:26:52] [main/FATAL]: )
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: m
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: H
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: y
-[16:26:52] [main/FATAL]: S
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: E
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: M
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: (
-[16:26:52] [main/FATAL]: E
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: M
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 3
-[16:26:52] [main/FATAL]: 3
-[16:26:52] [main/FATAL]: )
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: m
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: H
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: y
-[16:26:52] [main/FATAL]: S
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: E
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: M
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: (
-[16:26:52] [main/FATAL]: E
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: M
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: g
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 3
-[16:26:52] [main/FATAL]: 7
-[16:26:52] [main/FATAL]: )
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: m
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: H
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: y
-[16:26:52] [main/FATAL]: S
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: h
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: <
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: >
-[16:26:52] [main/FATAL]: (
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: h
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 3
-[16:26:52] [main/FATAL]: 1
-[16:26:52] [main/FATAL]: )
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: 	
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: d
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: m
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: e
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: H
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: s
-[16:26:52] [main/FATAL]: t
-[16:26:52] [main/FATAL]: o
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: y
-[16:26:52] [main/FATAL]: S
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: r
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: l
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: h
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: m
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: i
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: (
-[16:26:52] [main/FATAL]: L
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: u
-[16:26:52] [main/FATAL]: n
-[16:26:52] [main/FATAL]: c
-[16:26:52] [main/FATAL]: h
-[16:26:52] [main/FATAL]: .
-[16:26:52] [main/FATAL]: j
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: v
-[16:26:52] [main/FATAL]: a
-[16:26:52] [main/FATAL]: :
-[16:26:52] [main/FATAL]: 4
-[16:26:52] [main/FATAL]: 6
-[16:26:52] [main/FATAL]: )
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: 
-[16:26:52] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
-[16:28:21] [main/INFO]: Preparing to launch history survival client
-[16:28:21] [main/INFO]: History Survival client is ready to start.
-[16:28:21] [main/INFO]: Starting!
-[16:28:21] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:28:21] [main/INFO]: Loading for game History Survival
-[16:28:21] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:28:23] [main/INFO]: Stopping!
-[16:28:41] [main/INFO]: Preparing to launch history survival client
-[16:28:41] [main/INFO]: History Survival client is ready to start.
-[16:28:41] [main/INFO]: Starting!
-[16:28:41] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:28:41] [main/INFO]: Loading for game History Survival
-[16:28:41] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:28:41] [main/FATAL]: [
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: J
-[16:28:41] [main/FATAL]: G
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: ]
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: G
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: F
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: _
-[16:28:41] [main/FATAL]: I
-[16:28:41] [main/FATAL]: N
-[16:28:41] [main/FATAL]: V
-[16:28:41] [main/FATAL]: A
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: I
-[16:28:41] [main/FATAL]: D
-[16:28:41] [main/FATAL]: _
-[16:28:41] [main/FATAL]: V
-[16:28:41] [main/FATAL]: A
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: U
-[16:28:41] [main/FATAL]: E
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: D
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: p
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: I
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: O
-[16:28:41] [main/FATAL]: p
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: G
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: -
-[16:28:41] [main/FATAL]: 3
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: -
-[16:28:41] [main/FATAL]: 2
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: S
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: k
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]:  
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: f
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: G
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: F
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: f
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: C
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: (
-[16:28:41] [main/FATAL]: G
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: F
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 2
-[16:28:41] [main/FATAL]: 0
-[16:28:41] [main/FATAL]: 2
-[16:28:41] [main/FATAL]: 4
-[16:28:41] [main/FATAL]: )
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: f
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: G
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: F
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: f
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: C
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: (
-[16:28:41] [main/FATAL]: G
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: F
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 2
-[16:28:41] [main/FATAL]: 1
-[16:28:41] [main/FATAL]: 9
-[16:28:41] [main/FATAL]: 7
-[16:28:41] [main/FATAL]: )
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: m
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: H
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: y
-[16:28:41] [main/FATAL]: S
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: M
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: (
-[16:28:41] [main/FATAL]: W
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: w
-[16:28:41] [main/FATAL]: M
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 6
-[16:28:41] [main/FATAL]: 6
-[16:28:41] [main/FATAL]: )
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: m
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: H
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: y
-[16:28:41] [main/FATAL]: S
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: E
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: M
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: (
-[16:28:41] [main/FATAL]: E
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: M
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 3
-[16:28:41] [main/FATAL]: 3
-[16:28:41] [main/FATAL]: )
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: m
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: H
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: y
-[16:28:41] [main/FATAL]: S
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: E
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: M
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: (
-[16:28:41] [main/FATAL]: E
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: M
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: g
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 3
-[16:28:41] [main/FATAL]: 7
-[16:28:41] [main/FATAL]: )
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: m
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: H
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: y
-[16:28:41] [main/FATAL]: S
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: h
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: <
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: >
-[16:28:41] [main/FATAL]: (
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: h
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 3
-[16:28:41] [main/FATAL]: 1
-[16:28:41] [main/FATAL]: )
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: 	
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: d
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: m
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: e
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: H
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: s
-[16:28:41] [main/FATAL]: t
-[16:28:41] [main/FATAL]: o
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: y
-[16:28:41] [main/FATAL]: S
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: r
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: l
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: h
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: m
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: i
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: (
-[16:28:41] [main/FATAL]: L
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: u
-[16:28:41] [main/FATAL]: n
-[16:28:41] [main/FATAL]: c
-[16:28:41] [main/FATAL]: h
-[16:28:41] [main/FATAL]: .
-[16:28:41] [main/FATAL]: j
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: v
-[16:28:41] [main/FATAL]: a
-[16:28:41] [main/FATAL]: :
-[16:28:41] [main/FATAL]: 4
-[16:28:41] [main/FATAL]: 6
-[16:28:41] [main/FATAL]: )
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: 
-[16:28:41] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
-[16:31:56] [main/INFO]: Preparing to launch history survival client
-[16:31:56] [main/INFO]: History Survival client is ready to start.
-[16:31:56] [main/INFO]: Starting!
-[16:31:56] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:31:56] [main/INFO]: Loading for game History Survival
-[16:31:56] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:31:56] [main/FATAL]: [LWJGL] GLFW_INVALID_VALUE error
-[16:31:56] [main/FATAL]: 	Description : Invalid OpenGL version -3.-2
-[16:31:56] [main/FATAL]: 	Stacktrace  :
-[16:31:56] [main/FATAL]: 		org.lwjgl.glfw.GLFW.nglfwCreateWindow(GLFW.java:2024)
-[16:31:56] [main/FATAL]: 		org.lwjgl.glfw.GLFW.glfwCreateWindow(GLFW.java:2197)
-[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.core.WindowManager.init(WindowManager.java:66)
-[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.core.EngineManager.init(EngineManager.java:33)
-[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.core.EngineManager.start(EngineManager.java:37)
-[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:31)
-[16:31:56] [main/FATAL]: 		net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:46)
-[16:31:56] [main/FATAL]: java.lang.RuntimeException: Failed to create GLFW window
-[16:33:07] [main/INFO]: Preparing to launch history survival client
-[16:33:07] [main/INFO]: History Survival client is ready to start.
-[16:33:07] [main/INFO]: Starting!
-[16:33:07] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:33:07] [main/INFO]: Loading for game History Survival
-[16:33:07] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:33:09] [main/INFO]: Stopping!
-[16:45:12] [main/INFO]: Preparing to launch history survival client
-[16:45:12] [main/INFO]: History Survival client is ready to start.
-[16:45:12] [main/INFO]: Starting!
-[16:45:12] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:45:12] [main/INFO]: Loading for game History Survival
-[16:45:12] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:45:18] [main/INFO]: Stopping!
-[16:45:54] [main/INFO]: Preparing to launch history survival client
-[16:45:54] [main/INFO]: History Survival client is ready to start.
-[16:45:54] [main/INFO]: Starting!
-[16:45:54] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:45:54] [main/INFO]: Loading for game History Survival
-[16:45:54] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:46:10] [main/INFO]: Stopping!
-[16:54:15] [main/INFO]: Preparing to launch history survival client
-[16:54:15] [main/INFO]: History Survival client is ready to start.
-[16:54:15] [main/INFO]: Starting!
-[16:54:15] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[16:54:15] [main/INFO]: Loading for game History Survival
-[16:54:15] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[16:54:17] [main/INFO]: Stopping!
-[17:41:10] [main/INFO]: Preparing to launch history survival client
-[17:41:10] [main/INFO]: History Survival client is ready to start.
-[17:41:10] [main/INFO]: Starting!
-[17:41:10] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[17:41:10] [main/INFO]: Loading for game History Survival
-[17:41:10] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[17:41:10] [main/INFO]: Reloading ResourceManager: Default
-[17:41:21] [main/INFO]: Stopping!
-[18:34:00] [main/INFO]: Preparing to launch history survival client
-[18:34:00] [main/INFO]: History Survival client is ready to start.
-[18:34:00] [main/INFO]: Starting!
-[18:34:00] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[18:34:00] [main/INFO]: Loading for game History Survival
-[18:34:00] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[18:34:01] [main/INFO]: Reloading ResourceManager: Default
-[18:34:01] [main/FATAL]: java.lang.Exception: Unable to link shader program
-
-[18:35:47] [main/INFO]: Preparing to launch history survival client
-[18:35:47] [main/INFO]: History Survival client is ready to start.
-[18:35:47] [main/INFO]: Starting!
-[18:35:47] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[18:35:47] [main/INFO]: Loading for game History Survival
-[18:35:47] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[18:35:47] [main/INFO]: Reloading ResourceManager: Default
-[18:35:47] [main/FATAL]: java.lang.Exception: Unable to link shader program 
-[18:37:28] [main/INFO]: Preparing to launch history survival client
-[18:37:28] [main/INFO]: History Survival client is ready to start.
-[18:37:28] [main/INFO]: Starting!
-[18:37:28] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[18:37:28] [main/INFO]: Loading for game History Survival
-[18:37:28] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[18:37:28] [main/INFO]: Reloading ResourceManager: Default
-[18:37:28] [main/FATAL]: An error occurred!
-
-[18:39:52] [main/INFO]: Preparing to launch history survival client
-[18:39:52] [main/INFO]: History Survival client is ready to start.
-[18:39:52] [main/INFO]: Starting!
-[18:39:52] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
-[18:39:52] [main/INFO]: Loading for game History Survival
-[18:39:52] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
-[18:39:53] [main/INFO]: Reloading ResourceManager: Default
-[18:39:55] [main/INFO]: Stopping!
+[15:43:54] [main/INFO]: Preparing to launch history survival client
+[15:43:54] [main/INFO]: History Survival client is ready to start.
+[15:43:54] [main/INFO]: Starting!
+[15:43:54] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[15:43:54] [main/INFO]: Loading for game History Survival
+[15:43:55] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[15:43:55] [main/INFO]: Reloading ResourceManager: Default
+[15:43:56] [main/INFO]: Stopping!
+[15:46:09] [main/INFO]: Preparing to launch history survival client
+[15:46:09] [main/INFO]: History Survival client is ready to start.
+[15:46:09] [main/INFO]: Starting!
+[15:46:09] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[15:46:09] [main/INFO]: Loading for game History Survival
+[15:46:10] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[15:46:10] [main/INFO]: Reloading ResourceManager: Default
+[15:46:11] [main/INFO]: Stopping!
+[15:49:05] [main/INFO]: Preparing to launch history survival client
+[15:49:06] [main/INFO]: History Survival client is ready to start.
+[15:49:06] [main/INFO]: Starting!
+[15:49:06] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[15:49:06] [main/INFO]: Loading for game History Survival
+[15:49:06] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[15:49:06] [main/INFO]: Reloading ResourceManager: Default
+[15:49:07] [main/INFO]: Stopping!
+[15:57:07] [main/INFO]: Preparing to launch history survival client
+[15:57:07] [main/INFO]: History Survival client is ready to start.
+[15:57:07] [main/INFO]: Starting!
+[15:57:07] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[15:57:07] [main/INFO]: Loading for game History Survival
+[15:57:07] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[15:57:07] [main/INFO]: Reloading ResourceManager: Default
+[15:57:08] [main/INFO]: Stopping!
+[15:58:47] [main/INFO]: Preparing to launch history survival client
+[15:58:47] [main/INFO]: History Survival client is ready to start.
+[15:58:47] [main/INFO]: Starting!
+[15:58:47] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[15:58:47] [main/INFO]: Loading for game History Survival
+[15:58:47] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[15:58:48] [main/INFO]: Reloading ResourceManager: Default
+[15:58:48] [main/INFO]: Stopping!
+[15:59:45] [main/INFO]: Preparing to launch history survival client
+[15:59:45] [main/INFO]: History Survival client is ready to start.
+[15:59:45] [main/INFO]: Starting!
+[15:59:45] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[15:59:45] [main/INFO]: Loading for game History Survival
+[15:59:45] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[15:59:46] [main/INFO]: Reloading ResourceManager: Default
+[15:59:47] [main/INFO]: Stopping!
+[16:03:35] [main/INFO]: Preparing to launch history survival client
+[16:03:35] [main/INFO]: History Survival client is ready to start.
+[16:03:35] [main/INFO]: Starting!
+[16:03:35] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:03:35] [main/INFO]: Loading for game History Survival
+[16:03:36] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:03:36] [main/INFO]: Reloading ResourceManager: Default
+[16:03:37] [main/INFO]: Stopping!
+[16:05:55] [main/INFO]: Preparing to launch history survival client
+[16:05:55] [main/INFO]: History Survival client is ready to start.
+[16:05:55] [main/INFO]: Starting!
+[16:05:55] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:05:55] [main/INFO]: Loading for game History Survival
+[16:05:55] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:05:56] [main/INFO]: Reloading ResourceManager: Default
+[16:05:57] [main/INFO]: Stopping!
+[16:06:56] [main/INFO]: Preparing to launch history survival client
+[16:06:56] [main/INFO]: History Survival client is ready to start.
+[16:06:56] [main/INFO]: Starting!
+[16:06:56] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:06:56] [main/INFO]: Loading for game History Survival
+[16:06:56] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:06:57] [main/INFO]: Reloading ResourceManager: Default
+[16:06:58] [main/INFO]: Stopping!
+[16:16:18] [main/INFO]: Preparing to launch history survival client
+[16:16:18] [main/INFO]: History Survival client is ready to start.
+[16:16:18] [main/INFO]: Starting!
+[16:16:18] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:16:18] [main/INFO]: Loading for game History Survival
+[16:16:18] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:16:18] [main/INFO]: Reloading ResourceManager: Default
+[16:16:18] [main/FATAL]: An error occurred!
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\samro\projects\java\HistorySurvival\build\libs\HistorySurvival-1.0-SNAPSHOT.jar!\textures\grass_block.png
+	at sun.nio.fs.WindowsPathParser.normalize(Unknown Source) ~[?:?]
+	at sun.nio.fs.WindowsPathParser.parse(Unknown Source) ~[?:?]
+	at sun.nio.fs.WindowsPathParser.parse(Unknown Source) ~[?:?]
+	at sun.nio.fs.WindowsPath.parse(Unknown Source) ~[?:?]
+	at sun.nio.fs.WindowsFileSystem.getPath(Unknown Source) ~[?:?]
+	at java.io.File.toPath(Unknown Source) ~[?:?]
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:53) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:56) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:16:19] [main/INFO]: Stopping!
+[16:20:46] [main/INFO]: Preparing to launch history survival client
+[16:20:46] [main/INFO]: History Survival client is ready to start.
+[16:20:46] [main/INFO]: Starting!
+[16:20:46] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:20:46] [main/INFO]: Loading for game History Survival
+[16:20:46] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:20:46] [main/INFO]: Reloading ResourceManager: Default
+[16:20:46] [main/FATAL]: An error occurred!
+java.io.IOException: Unable to find classpath resource/textures/grass_block.png
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:52) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:56) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:20:47] [main/INFO]: Stopping!
+[16:21:18] [main/INFO]: Preparing to launch history survival client
+[16:21:18] [main/INFO]: History Survival client is ready to start.
+[16:21:18] [main/INFO]: Starting!
+[16:21:18] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:21:18] [main/INFO]: Loading for game History Survival
+[16:21:19] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:21:19] [main/INFO]: Reloading ResourceManager: Default
+[16:21:19] [main/FATAL]: An error occurred!
+java.io.IOException: Unable to find classpath resource/textures/grass_block.png
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:52) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:56) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:21:20] [main/INFO]: Stopping!
+[16:23:03] [main/INFO]: Preparing to launch history survival client
+[16:23:03] [main/INFO]: History Survival client is ready to start.
+[16:23:03] [main/INFO]: Starting!
+[16:23:03] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:23:03] [main/INFO]: Loading for game History Survival
+[16:23:03] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:23:04] [main/INFO]: Reloading ResourceManager: Default
+[16:23:04] [main/FATAL]: An error occurred!
+java.io.IOException: Unable to find classpath resource/resource/textures/grass_block.png
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:52) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:23:04] [main/INFO]: Stopping!
+[16:23:44] [main/INFO]: Preparing to launch history survival client
+[16:23:44] [main/INFO]: History Survival client is ready to start.
+[16:23:44] [main/INFO]: Starting!
+[16:23:44] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:23:44] [main/INFO]: Loading for game History Survival
+[16:23:44] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:23:45] [main/INFO]: Reloading ResourceManager: Default
+[16:23:45] [main/FATAL]: An error occurred!
+java.io.IOException: Unable to find classpath resource/textures/grass_block.png
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:52) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:23:46] [main/INFO]: Stopping!
+[16:25:51] [main/INFO]: Preparing to launch history survival client
+[16:25:51] [main/INFO]: History Survival client is ready to start.
+[16:25:51] [main/INFO]: Starting!
+[16:25:51] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:25:51] [main/INFO]: Loading for game History Survival
+[16:25:51] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:25:52] [main/INFO]: Reloading ResourceManager: Default
+[16:25:52] [main/FATAL]: An error occurred!
+java.io.IOException: Unable to find classpath resource/textures/grass_block.png
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:52) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:25:52] [main/INFO]: Stopping!
+[16:26:11] [main/INFO]: Preparing to launch history survival client
+[16:26:11] [main/INFO]: History Survival client is ready to start.
+[16:26:11] [main/INFO]: Starting!
+[16:26:11] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:26:11] [main/INFO]: Loading for game History Survival
+[16:26:11] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:26:12] [main/INFO]: Reloading ResourceManager: Default
+[16:26:12] [main/FATAL]: An error occurred!
+java.io.IOException: Unable to find classpath resource../textures/grass_block.png
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:52) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:26:12] [main/INFO]: Stopping!
+[16:26:56] [main/INFO]: Preparing to launch history survival client
+[16:26:56] [main/INFO]: History Survival client is ready to start.
+[16:26:56] [main/INFO]: Starting!
+[16:26:56] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:26:56] [main/INFO]: Loading for game History Survival
+[16:26:57] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:26:57] [main/INFO]: Reloading ResourceManager: Default
+[16:26:57] [main/FATAL]: An error occurred!
+java.nio.file.FileSystemNotFoundException: null
+	at jdk.nio.zipfs.ZipFileSystemProvider.getFileSystem(Unknown Source) ~[jdk.zipfs:?]
+	at jdk.nio.zipfs.ZipFileSystemProvider.getPath(Unknown Source) ~[jdk.zipfs:?]
+	at java.nio.file.Path.of(Unknown Source) ~[?:?]
+	at java.nio.file.Paths.get(Unknown Source) ~[?:?]
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:53) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:27:01] [main/INFO]: Stopping!
+[16:36:20] [main/INFO]: Preparing to launch history survival client
+[16:36:20] [main/INFO]: History Survival client is ready to start.
+[16:36:20] [main/INFO]: Starting!
+[16:36:20] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:36:20] [main/INFO]: Loading for game History Survival
+[16:36:20] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:36:20] [main/INFO]: Reloading ResourceManager: Default
+[16:36:20] [main/FATAL]: An error occurred!
+java.lang.NullPointerException: null
+	at net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer(Utils.java:61) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:70) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:36:21] [main/INFO]: Stopping!
+[16:37:11] [main/INFO]: Preparing to launch history survival client
+[16:37:11] [main/INFO]: History Survival client is ready to start.
+[16:37:11] [main/INFO]: Starting!
+[16:37:11] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:37:11] [main/INFO]: Loading for game History Survival
+[16:37:11] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:37:12] [main/INFO]: Reloading ResourceManager: Default
+[16:37:12] [main/INFO]: Stopping!
+[16:38:17] [main/INFO]: Preparing to launch history survival client
+[16:38:17] [main/INFO]: History Survival client is ready to start.
+[16:38:17] [main/INFO]: Starting!
+[16:38:17] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:38:17] [main/INFO]: Loading for game History Survival
+[16:38:17] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:38:17] [main/INFO]: Reloading ResourceManager: Default
+[16:38:18] [main/INFO]: Stopping!
+[16:39:37] [main/INFO]: Preparing to launch history survival client
+[16:39:37] [main/INFO]: History Survival client is ready to start.
+[16:39:37] [main/INFO]: Starting!
+[16:39:37] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:39:37] [main/INFO]: Loading for game History Survival
+[16:39:37] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:39:38] [main/INFO]: Reloading ResourceManager: Default
+[16:39:39] [main/INFO]: Stopping!
+[16:40:59] [main/INFO]: Preparing to launch history survival client
+[16:40:59] [main/INFO]: History Survival client is ready to start.
+[16:40:59] [main/INFO]: Starting!
+[16:40:59] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:40:59] [main/INFO]: Loading for game History Survival
+[16:40:59] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:41:00] [main/INFO]: Reloading ResourceManager: Default
+[16:41:01] [main/INFO]: Stopping!
+[16:41:56] [main/INFO]: Preparing to launch history survival client
+[16:41:56] [main/INFO]: History Survival client is ready to start.
+[16:41:56] [main/INFO]: Starting!
+[16:41:56] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:41:56] [main/INFO]: Loading for game History Survival
+[16:41:56] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:41:57] [main/INFO]: Reloading ResourceManager: Default
+[16:41:57] [main/INFO]: Stopping!
+[16:42:38] [main/INFO]: Preparing to launch history survival client
+[16:42:38] [main/INFO]: History Survival client is ready to start.
+[16:42:38] [main/INFO]: Starting!
+[16:42:38] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:42:39] [main/INFO]: Loading for game History Survival
+[16:42:39] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:42:39] [main/INFO]: Reloading ResourceManager: Default
+[16:42:40] [main/INFO]: Stopping!
+[16:44:59] [main/INFO]: Preparing to launch history survival client
+[16:44:59] [main/INFO]: History Survival client is ready to start.
+[16:44:59] [main/INFO]: Starting!
+[16:44:59] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:44:59] [main/INFO]: Loading for game History Survival
+[16:44:59] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:44:59] [main/INFO]: Reloading ResourceManager: Default
+[16:45:01] [main/INFO]: Stopping!
+[16:45:20] [main/INFO]: Preparing to launch history survival client
+[16:45:20] [main/INFO]: History Survival client is ready to start.
+[16:45:20] [main/INFO]: Starting!
+[16:45:20] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:45:20] [main/INFO]: Loading for game History Survival
+[16:45:20] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:45:21] [main/INFO]: Reloading ResourceManager: Default
+[16:45:25] [main/INFO]: Stopping!
+[16:46:46] [main/INFO]: Preparing to launch history survival client
+[16:46:46] [main/INFO]: History Survival client is ready to start.
+[16:46:46] [main/INFO]: Starting!
+[16:46:46] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:46:46] [main/INFO]: Loading for game History Survival
+[16:46:47] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:46:47] [main/INFO]: Reloading ResourceManager: Default
+[16:46:49] [main/INFO]: Stopping!
+[16:48:45] [main/INFO]: Preparing to launch history survival client
+[16:48:45] [main/INFO]: History Survival client is ready to start.
+[16:48:45] [main/INFO]: Starting!
+[16:48:45] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:48:45] [main/INFO]: Loading for game History Survival
+[16:48:45] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:48:45] [main/INFO]: Reloading ResourceManager: Default
+[16:48:45] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 loading texture: /textures/grass_block.png
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:87) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:48:46] [main/INFO]: Stopping!
+[16:50:07] [main/INFO]: Preparing to launch history survival client
+[16:50:07] [main/INFO]: History Survival client is ready to start.
+[16:50:07] [main/INFO]: Starting!
+[16:50:07] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:50:07] [main/INFO]: Loading for game History Survival
+[16:50:07] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:50:08] [main/INFO]: Reloading ResourceManager: Default
+[16:50:08] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 loading texture: /textures/grass_block.png
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:85) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:50:09] [main/INFO]: Stopping!
+[16:52:15] [main/INFO]: Preparing to launch history survival client
+[16:52:15] [main/INFO]: History Survival client is ready to start.
+[16:52:15] [main/INFO]: Starting!
+[16:52:15] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:52:15] [main/INFO]: Loading for game History Survival
+[16:52:15] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:52:16] [main/INFO]: Reloading ResourceManager: Default
+[16:52:16] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 while loading texture: /textures/grass_block.png
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:94) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:52:18] [main/INFO]: Stopping!
+[16:52:48] [main/INFO]: Preparing to launch history survival client
+[16:52:48] [main/INFO]: History Survival client is ready to start.
+[16:52:48] [main/INFO]: Starting!
+[16:52:48] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:52:48] [main/INFO]: Loading for game History Survival
+[16:52:48] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:52:49] [main/INFO]: Reloading ResourceManager: Default
+[16:52:49] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 while loading texture: /textures/grass_block.png
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:94) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:52:51] [main/INFO]: Stopping!
+[16:53:08] [main/INFO]: Preparing to launch history survival client
+[16:53:08] [main/INFO]: History Survival client is ready to start.
+[16:53:08] [main/INFO]: Starting!
+[16:53:08] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:53:08] [main/INFO]: Loading for game History Survival
+[16:53:08] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:53:09] [main/INFO]: Reloading ResourceManager: Default
+[16:53:09] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 while loading texture: /textures/grass_block.png
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:94) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:53:10] [main/INFO]: Stopping!
+[16:57:54] [main/INFO]: Preparing to launch history survival client
+[16:57:54] [main/INFO]: History Survival client is ready to start.
+[16:57:54] [main/INFO]: Starting!
+[16:57:54] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[16:57:54] [main/INFO]: Loading for game History Survival
+[16:57:54] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[16:57:55] [main/INFO]: Reloading ResourceManager: Default
+[16:57:55] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 while loading texture: /textures/grass_block.png
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:78) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[16:57:56] [main/INFO]: Stopping!
+[17:15:29] [main/INFO]: Preparing to launch history survival client
+[17:15:29] [main/INFO]: History Survival client is ready to start.
+[17:15:29] [main/INFO]: Starting!
+[17:15:29] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[17:15:29] [main/INFO]: Loading for game History Survival
+[17:15:29] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[17:15:30] [main/INFO]: Reloading ResourceManager: Default
+[17:15:30] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 while loading texture: /textures/grass_block.png
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadTextureResource(ObjectLoader.java:76) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:51) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[17:15:30] [main/INFO]: Stopping!
+[17:18:17] [main/INFO]: Preparing to launch history survival client
+[17:18:17] [main/INFO]: History Survival client is ready to start.
+[17:18:17] [main/INFO]: Starting!
+[17:18:17] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[17:18:17] [main/INFO]: Loading for game History Survival
+[17:18:17] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[17:18:18] [main/INFO]: Reloading ResourceManager: Default
+[17:18:18] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 after loading model
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:53) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[17:18:18] [main/INFO]: Stopping!
+[17:21:54] [main/INFO]: Preparing to launch history survival client
+[17:21:54] [main/INFO]: History Survival client is ready to start.
+[17:21:54] [main/INFO]: Starting!
+[17:21:54] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[17:21:54] [main/INFO]: Loading for game History Survival
+[17:21:55] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[17:21:55] [main/INFO]: Reloading ResourceManager: Default
+[17:21:55] [main/FATAL]: An error occurred!
+java.lang.RuntimeException: OpenGL error 1282 before storing model vertices
+	at net.ddns.minersonline.engine.core.loading.ObjectLoader.loadModel(ObjectLoader.java:41) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.GameLogic.init(GameLogic.java:50) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.init(EngineManager.java:36) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.engine.core.managers.EngineManager.start(EngineManager.java:40) ~[HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.<init>(Launch.java:37) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+	at net.ddns.minersonline.HistorySurvival.Launch.main(Launch.java:52) [HistorySurvival-1.0-SNAPSHOT.jar:?]
+[17:21:56] [main/INFO]: Stopping!
+[17:24:17] [main/INFO]: Preparing to launch history survival client
+[17:24:17] [main/INFO]: History Survival client is ready to start.
+[17:24:17] [main/INFO]: Starting!
+[17:24:17] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[17:24:17] [main/INFO]: Loading for game History Survival
+[17:24:17] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[17:24:18] [main/INFO]: Reloading ResourceManager: Default
+[17:24:20] [main/INFO]: Stopping!
+[17:26:05] [main/INFO]: Preparing to launch history survival client
+[17:26:05] [main/INFO]: History Survival client is ready to start.
+[17:26:05] [main/INFO]: Starting!
+[17:26:05] [main/INFO]: Using default game log configuration log4j2.xml (outputs XML)
+[17:26:05] [main/INFO]: Loading for game History Survival
+[17:26:05] [main/INFO]: Backend library: LWJGL version 3.3.0 SNAPSHOT
+[17:26:06] [main/INFO]: Reloading ResourceManager: Default
+[17:26:21] [main/INFO]: Stopping!
