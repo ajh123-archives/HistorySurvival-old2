@@ -44,7 +44,7 @@ public class Launch {
         }
 
         LOGGER.info("Stopping!");
-        wm.cleanUp();
+        game.cleanUp();
     }
 
     public static void main(String[] args){

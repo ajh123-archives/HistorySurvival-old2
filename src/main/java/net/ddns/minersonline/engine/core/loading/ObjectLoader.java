@@ -55,14 +55,6 @@ public class ObjectLoader {
         TCCs.add(id);
         GL11.glBindTexture(GL11.GL_TEXTURE_2D, id);
         GL11.glPixelStorei(GL11.GL_UNPACK_ALIGNMENT, 1);
-        // Use linear filtering for texture scaling
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MIN_FILTER, GL11.GL_LINEAR);
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MAG_FILTER, GL11.GL_LINEAR);
-
-        // Clamp texture co-ordinates between 0 and 1
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_S, GL12.GL_CLAMP_TO_EDGE);
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_T, GL12.GL_CLAMP_TO_EDGE);
-
         GL11.glTexImage2D(GL11.GL_TEXTURE_2D, 0, GL11.GL_RGBA, width, height, 0, GL11.GL_RGBA, GL11.GL_UNSIGNED_BYTE, buffer);
         GL30.glGenerateMipmap(GL11.GL_TEXTURE_2D);
         STBImage.stbi_image_free(buffer);
@@ -91,14 +83,6 @@ public class ObjectLoader {
         TCCs.add(id);
         GL11.glBindTexture(GL11.GL_TEXTURE_2D, id);
         GL11.glPixelStorei(GL11.GL_UNPACK_ALIGNMENT, 1);
-        // Use linear filtering for texture scaling
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MIN_FILTER, GL11.GL_LINEAR);
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MAG_FILTER, GL11.GL_LINEAR);
-
-        // Clamp texture co-ordinates between 0 and 1
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_S, GL12.GL_CLAMP_TO_EDGE);
-        GL11.glTexParameteri(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_WRAP_T, GL12.GL_CLAMP_TO_EDGE);
-
         GL11.glTexImage2D(GL11.GL_TEXTURE_2D, 0, GL11.GL_RGBA, width, height, 0, GL11.GL_RGBA, GL11.GL_UNSIGNED_BYTE, data);
         GL30.glGenerateMipmap(GL11.GL_TEXTURE_2D);
         STBImage.stbi_image_free(data);

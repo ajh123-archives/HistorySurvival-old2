@@ -1,6 +1,7 @@
 package net.ddns.minersonline.engine.core.managers;
 
 import net.ddns.minersonline.HistorySurvival.Launch;
+import net.ddns.minersonline.engine.core.Camera;
 import net.ddns.minersonline.engine.core.entity.Entity;
 import net.ddns.minersonline.engine.core.entity.Model;
 import net.ddns.minersonline.engine.core.utils.Transformation;
@@ -26,12 +27,16 @@ public class RenderManager {
         shader.link();
         shader.createUniform("textureSampler");
         shader.createUniform("transMatrix");
+        shader.createUniform("projMatrix");
+        shader.createUniform("viewMatrix");
     }
 
-    public void render(@NotNull Entity entity) throws Exception{
+    public void render(@NotNull Entity entity, Camera cam) throws Exception{
         shader.bind();
         shader.setUniform("textureSampler", 0);
         shader.setUniform("transMatrix", Transformation.createTransformMatrix(entity));
+        shader.setUniform("projMatrix", window.updateProjectionMatrix());
+        shader.setUniform("viewMatrix", Transformation.createViewMatrix(cam));
         GL30.glBindVertexArray(entity.getModel().getId());
         GL20.glEnableVertexAttribArray(0);
         GL20.glEnableVertexAttribArray(1);
