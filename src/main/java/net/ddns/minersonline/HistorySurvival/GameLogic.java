@@ -4,17 +4,21 @@ import net.ddns.minersonline.engine.core.Camera;
 import net.ddns.minersonline.engine.core.ILogic;
 import net.ddns.minersonline.engine.core.entity.Entity;
 import net.ddns.minersonline.engine.core.entity.Texture;
+import net.ddns.minersonline.engine.core.managers.MouseManager;
 import net.ddns.minersonline.engine.core.managers.RenderManager;
 import net.ddns.minersonline.engine.core.managers.WindowManager;
 import net.ddns.minersonline.engine.core.entity.Model;
 import net.ddns.minersonline.engine.core.loading.ObjectLoader;
+import net.ddns.minersonline.engine.plugins.Plugin;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.joml.Vector2f;
 import org.joml.Vector3f;
 import org.lwjgl.glfw.GLFW;
 import org.lwjgl.opengl.GL11;
 
-public class GameLogic implements ILogic {
+
+public class GameLogic extends ILogic {
     private static final Logger LOGGER = LogManager.getLogger(GameLogic.class);
 
     private final RenderManager renderer;
@@ -34,7 +38,12 @@ public class GameLogic implements ILogic {
 
     @Override
     public void init() throws Exception {
+        super.init();
+
         LOGGER.info("Reloading ResourceManager: Default");
+        Plugin mainPlugin = new MainPlugin();
+        mainPlugin.run();
+
         renderer.init();
 
         float[] vertices = new float[] {
@@ -99,7 +108,7 @@ public class GameLogic implements ILogic {
     }
 
     @Override
-    public void input() {
+    public void input(MouseManager mouse) {
         camPos.set(0,0,0);
         if (window.isKeyPressed(GLFW.GLFW_KEY_W)){
             camPos.z = -0.01f;
@@ -119,6 +128,11 @@ public class GameLogic implements ILogic {
         }
         if (window.isKeyPressed(GLFW.GLFW_KEY_X)){
             camPos.y = 0.01f;
+        }
+
+        if(mouse.isRbPressed()){
+            Vector2f rotVec = mouse.getDisPos();
+            camera.moveRot(new Vector3f(rotVec.x * 0.2f, rotVec.y * 0.2f, 0));
         }
     }
 
