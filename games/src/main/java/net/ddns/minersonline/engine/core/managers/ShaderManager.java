@@ -4,6 +4,7 @@ import org.joml.Matrix4f;
 import org.joml.Vector3f;
 import org.joml.Vector4f;
 import org.lwjgl.opengl.GL20;
+import org.lwjgl.opengl.GL30;
 import org.lwjgl.system.MemoryStack;
 
 import java.util.HashMap;
@@ -121,10 +122,14 @@ public class ShaderManager {
             GL20.glDetachShader(programID, fragmentShaderID);
         }
 
+        int vao = GL30.glGenVertexArrays();
+        GL30.glBindVertexArray(vao);
         GL20.glValidateProgram(programID);
         if (GL20.glGetProgrami(programID, GL20.GL_VALIDATE_STATUS) == 0){
+            GL30.glDeleteVertexArrays(vao);
             throw new Exception("Unable to validate shader program\n"+GL20.glGetProgramInfoLog(programID));
         }
+        GL30.glDeleteVertexArrays(vao);
     }
 
     public void bind(){

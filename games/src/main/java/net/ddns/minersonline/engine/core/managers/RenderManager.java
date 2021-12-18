@@ -3,7 +3,6 @@ package net.ddns.minersonline.engine.core.managers;
 import net.ddns.minersonline.HistorySurvival.Launch;
 import net.ddns.minersonline.engine.core.Camera;
 import net.ddns.minersonline.engine.core.entity.Entity;
-import net.ddns.minersonline.engine.core.entity.Model;
 import net.ddns.minersonline.engine.core.utils.Transformation;
 import net.ddns.minersonline.engine.core.utils.Utils;
 import org.jetbrains.annotations.NotNull;

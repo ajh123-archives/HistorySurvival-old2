@@ -2,7 +2,6 @@ package net.ddns.minersonline.engine.core.loading;
 
 import net.ddns.minersonline.engine.core.entity.Model;
 import net.ddns.minersonline.engine.core.utils.Utils;
-import org.lwjgl.BufferUtils;
 import org.lwjgl.opengl.*;
 import org.lwjgl.stb.STBImage;
 import org.lwjgl.system.MemoryStack;
@@ -12,7 +11,6 @@ import java.nio.FloatBuffer;
 import java.nio.IntBuffer;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 import static net.ddns.minersonline.engine.core.utils.Utils.ioResourceToByteBuffer;
 import static org.lwjgl.stb.STBImage.stbi_load_from_memory;

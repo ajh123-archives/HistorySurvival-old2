@@ -1,9 +1,29 @@
+import org.gradle.internal.os.OperatingSystem
+
 plugins {
     id 'java-library'
 }
 
 project.ext.lwjglVersion = "3.3.0"
-project.ext.lwjglNatives = "natives-windows"
+switch (OperatingSystem.current()) {
+    case OperatingSystem.LINUX:
+        def osArch = System.getProperty("os.arch")
+        project.ext.lwjglNatives = osArch.startsWith("arm") || osArch.startsWith("aarch64")
+                ? "natives-linux-${osArch.contains("64") || osArch.startsWith("armv8") ? "arm64" : "arm32"}"
+                : "natives-linux"
+        break
+    case OperatingSystem.MAC_OS:
+        project.ext.lwjglNatives = System.getProperty("os.arch").startsWith("aarch64") ? "natives-macos-arm64" : "natives-macos"
+        break
+    case OperatingSystem.WINDOWS:
+        def osArch = System.getProperty("os.arch")
+        project.ext.lwjglNatives = osArch.contains("64")
+                ? "natives-windows${osArch.startsWith("aarch64") ? "-arm64" : ""}"
+                : "natives-windows-x86"
+        break
+}
+//project.ext.lwjglNatives="natives-macos" // cross compile
+
 project.ext.jomlVersion = "1.10.0"
 project.ext.jomlPrimVersion = "1.10.0"
 project.ext.log4japiVersion = "2.15.0"
@@ -48,7 +68,6 @@ dependencies {
     implementation "org.lwjgl:lwjgl-opengles"
     implementation "org.lwjgl:lwjgl-openvr"
     implementation "org.lwjgl:lwjgl-opus"
-    implementation "org.lwjgl:lwjgl-ovr"
     implementation "org.lwjgl:lwjgl-par"
     implementation "org.lwjgl:lwjgl-remotery"
     implementation "org.lwjgl:lwjgl-rpmalloc"
@@ -82,7 +101,6 @@ dependencies {
     runtimeOnly "org.lwjgl:lwjgl-opengles::$lwjglNatives"
     runtimeOnly "org.lwjgl:lwjgl-openvr::$lwjglNatives"
     runtimeOnly "org.lwjgl:lwjgl-opus::$lwjglNatives"
-    runtimeOnly "org.lwjgl:lwjgl-ovr::$lwjglNatives"
     runtimeOnly "org.lwjgl:lwjgl-par::$lwjglNatives"
     runtimeOnly "org.lwjgl:lwjgl-remotery::$lwjglNatives"
     runtimeOnly "org.lwjgl:lwjgl-rpmalloc::$lwjglNatives"
@@ -102,6 +120,16 @@ test {
     useJUnitPlatform()
 }
 
+sourceSets {
+    main {
+        java {
+            srcDir "src"
+        }
+        resources {
+            srcDir 'resources'
+        }
+    }
+}
 
 jar {
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
@@ -112,6 +140,7 @@ jar {
                 'Main-Class': 'net.ddns.minersonline.HistorySurvival.Launch'
         )
     }
+    baseName = "HistorySurvival-$lwjglNatives"
     from {
         configurations.runtimeClasspath .findAll { it.name.endsWith('jar') }.collect { zipTree(it) }
     }

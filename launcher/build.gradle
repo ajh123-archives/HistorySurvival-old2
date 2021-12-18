@@ -1,0 +1,48 @@
+plugins {
+    id 'java-library'
+}
+
+project.ext.log4japiVersion = "2.15.0"
+project.ext.log4jcoreVersion = "2.15.0"
+
+group 'net.ddns.minersonline'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.apache.logging.log4j:log4j-api:$log4japiVersion"
+    implementation "org.apache.logging.log4j:log4j-core:$log4jcoreVersion"
+}
+
+test {
+    useJUnitPlatform()
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir "src"
+        }
+        resources {
+            srcDir 'resources'
+        }
+    }
+}
+
+jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    manifest {
+        attributes(
+                "Multi-Release": true,
+                'Main-Class': 'net.ddns.minersonline.launcher.Main'
+        )
+    }
+    baseName = "Launcher"
+    from {
+        configurations.runtimeClasspath .findAll { it.name.endsWith('jar') }.collect { zipTree(it) }
+    }
+}

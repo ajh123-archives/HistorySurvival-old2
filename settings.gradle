@@ -1,2 +1,3 @@
 rootProject.name = 'HistorySurvival'
-
+include "games"
+include "launcher"
