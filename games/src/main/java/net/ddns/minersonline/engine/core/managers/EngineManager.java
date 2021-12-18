@@ -1,7 +1,7 @@
 package net.ddns.minersonline.engine.core.managers;
 
 import net.ddns.minersonline.HistorySurvival.Launch;
-import net.ddns.minersonline.engine.LogOutputStream;
+import net.ddns.minersonline.shared.LogOutputStream;
 import net.ddns.minersonline.engine.core.ILogic;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;

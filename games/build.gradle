@@ -37,6 +37,8 @@ repositories {
 }
 
 dependencies {
+    implementation  project(':shared')
+
     implementation platform("org.lwjgl:lwjgl-bom:$lwjglVersion")
 
     implementation "org.apache.logging.log4j:log4j-api:$log4japiVersion"
@@ -132,6 +134,7 @@ sourceSets {
 }
 
 jar {
+    dependsOn ':shared:jar'
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
     manifest {

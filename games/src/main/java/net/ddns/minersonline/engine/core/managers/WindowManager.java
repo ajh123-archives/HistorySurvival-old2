@@ -1,6 +1,6 @@
 package net.ddns.minersonline.engine.core.managers;
 
-import net.ddns.minersonline.engine.LogOutputStream;
+import net.ddns.minersonline.shared.LogOutputStream;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

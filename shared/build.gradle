@@ -1,6 +1,5 @@
 plugins {
     id 'java-library'
-    id 'org.openjfx.javafxplugin' version '0.0.8'
     id 'application'
 }
 
@@ -14,14 +13,9 @@ repositories {
     mavenCentral()
 }
 
-javafx {
-    version = "11.0.2"
-    modules = [ 'javafx.controls', 'javafx.fxml', 'javafx.graphics' ]
-}
-
 dependencies {
-    implementation  project(':shared')
-
+    implementation 'com.google.code.gson:gson:2.8.9'
+    implementation group: 'org.apache.httpcomponents', name: 'httpmime', version: '4.1.3'
     implementation "org.apache.logging.log4j:log4j-api:$log4japiVersion"
     implementation "org.apache.logging.log4j:log4j-core:$log4jcoreVersion"
 }
@@ -42,16 +36,7 @@ sourceSets {
 }
 
 jar {
-    dependsOn ':shared:jar'
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-
-    manifest {
-        attributes(
-                "Multi-Release": true,
-                'Main-Class': 'net.ddns.minersonline.launcher.Main'
-        )
-    }
-    baseName = "Launcher"
     from {
         configurations.runtimeClasspath .findAll { it.name.endsWith('jar') }.collect { zipTree(it) }
     }

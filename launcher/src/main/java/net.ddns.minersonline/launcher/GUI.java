@@ -15,7 +15,7 @@ public class GUI extends Application {
     @Override
     public void start(Stage stage) throws Exception {
         Parent login = FXMLLoader.load(this.getClass().getResource("/main.fxml"));
-        Scene scene = new Scene(login, 300, 275);
+        Scene scene = new Scene(login, 400, 275);
 
         stage.setTitle("MinersOnline Launcher");
         stage.setScene(scene);

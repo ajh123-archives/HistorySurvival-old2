@@ -29,14 +29,14 @@ public class Launch {
         try {
             context.setConfigLocation(Objects.requireNonNull(this.getClass().getClassLoader().getResource("log4j2.xml")).toURI());
         } catch (URISyntaxException e) {
-            LOGGER.fatal(e);
+            LOGGER.trace(e);
         }
 
         LOGGER.info("Loading for game History Survival");
         try {
             engineManager.start();
         } catch(Exception e) {
-            LOGGER.fatal("An error occurred!", e);
+            LOGGER.trace("An error occurred!", e);
         }
 
         while (!wm.windowShouldClose()){

@@ -1,4 +1,4 @@
-package net.ddns.minersonline.engine;
+package net.ddns.minersonline.shared;
 
 
 import org.apache.logging.log4j.Level;
