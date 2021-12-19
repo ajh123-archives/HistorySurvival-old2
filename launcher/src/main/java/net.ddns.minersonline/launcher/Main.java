@@ -15,6 +15,8 @@ import org.apache.logging.log4j.Logger;
 
 import java.io.*;
 import java.lang.reflect.Type;
+import java.net.URL;
+import java.util.ArrayList;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
@@ -53,6 +55,16 @@ public class Main {
         Gson gson = new Gson();
         FileReader fr = new FileReader(file.getAbsoluteFile());
         BufferedReader br = new BufferedReader(fr);
+        String data =  br.lines().collect(Collectors.joining());
+        Object object = gson.fromJson(data, (Type) classOfT);
+        br.close();
+        return Primitives.wrap(classOfT).cast(object);
+    }
+
+    public static <T> T readJsonFromUrl(String url, Class<T> classOfT) throws IOException {
+        Gson gson = new Gson();
+        InputStream is = new URL(url).openStream();
+        BufferedReader br = new BufferedReader(new InputStreamReader(is));
         String data =  br.lines().collect(Collectors.joining());
         Object object = gson.fromJson(data, (Type) classOfT);
         br.close();
