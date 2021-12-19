@@ -1,6 +1,7 @@
 package net.ddns.minersonline.shared.json;
 
 public class AuthenticateResponse {
+    public AuthUser user;
     private String accessToken;
     private String clientToken;
     private AuthProfile selectedProfile;

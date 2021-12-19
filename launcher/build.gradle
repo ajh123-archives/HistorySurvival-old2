@@ -16,12 +16,14 @@ repositories {
 
 javafx {
     version = "11.0.2"
-    modules = [ 'javafx.controls', 'javafx.fxml', 'javafx.graphics' ]
+    modules = [ 'javafx.controls', 'javafx.fxml', 'javafx.graphics', 'javafx.web' ]
 }
 
 dependencies {
     implementation  project(':shared')
 
+    implementation 'com.google.code.gson:gson:2.8.9'
+    implementation 'net.harawata:appdirs:1.2.1'
     implementation "org.apache.logging.log4j:log4j-api:$log4japiVersion"
     implementation "org.apache.logging.log4j:log4j-core:$log4jcoreVersion"
 }
