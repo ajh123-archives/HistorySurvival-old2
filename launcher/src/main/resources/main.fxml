@@ -5,10 +5,10 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ddns.minersonline.launcher.LoginController">
+<GridPane stylesheets="/style.css" alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.ddns.minersonline.launcher.LoginController">
     <padding><Insets bottom="10" left="25" right="25" top="20" /></padding>
 
-    <Text text="Welcome" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0"/>
+    <Text styleClass="label" text="Welcome" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0"/>
 
     <Label text="Email:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
 
@@ -22,7 +22,7 @@
     <Button onAction="#handleSubmitButtonAction" text="Sign In"/>
     </HBox>
 
-    <Text fx:id="signInButton" GridPane.columnIndex="1" GridPane.rowIndex="6" GridPane.rowSpan="2"/>
+    <Text styleClass="label" fx:id="signInButton" GridPane.columnIndex="1" GridPane.rowIndex="6" GridPane.rowSpan="2"/>
    <columnConstraints>
       <ColumnConstraints/>
       <ColumnConstraints/>

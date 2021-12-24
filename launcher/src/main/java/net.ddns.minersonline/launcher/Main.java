@@ -2,6 +2,9 @@ package net.ddns.minersonline.launcher;
 
 import com.google.gson.Gson;
 import com.google.gson.internal.Primitives;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.stage.Stage;
 import net.ddns.minersonline.shared.AuthClient;
 import net.ddns.minersonline.shared.AuthException;
@@ -17,6 +20,7 @@ import java.io.*;
 import java.lang.reflect.Type;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Objects;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
@@ -30,6 +34,13 @@ public class Main {
         LOGGER.info("User data dir: " + dataDir);
         Main.clientToken = UUID.randomUUID();
         GUI.main(args);
+        try {
+            if(Main.user != null) {
+                AuthClient.signOut(Main.user.user.username, Main.user.user.password);
+            }
+        } catch (Exception e) {
+            Main.LOGGER.trace(e);
+        }
     }
 
     public static void writeFile(String name, String value){

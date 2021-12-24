@@ -15,6 +15,7 @@ import net.ddns.minersonline.shared.TokenPair;
 import net.ddns.minersonline.shared.json.AuthenticateResponse;
 
 import java.io.IOException;
+import java.util.Objects;
 
 public class LoginController {
     @FXML private Text signInButton;
@@ -44,7 +45,7 @@ public class LoginController {
             pair.clientToken = Main.user.getClientToken();
             String json = gson.toJson(pair);
 
-            Parent login = FXMLLoader.load(this.getClass().getResource("/user.fxml"));
+            Parent login = FXMLLoader.load(Objects.requireNonNull(this.getClass().getResource("/user.fxml")));
             Scene scene = new Scene(login, 640, 480);
 
             Main.writeFile("userCache.json", json);
