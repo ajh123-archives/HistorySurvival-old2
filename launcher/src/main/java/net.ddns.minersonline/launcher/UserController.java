@@ -11,10 +11,14 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.web.WebView;
+import javafx.stage.Stage;
 import javafx.util.Duration;
 import net.ddns.minersonline.shared.AuthClient;
 
+import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.net.URL;
 import java.util.Objects;
 import java.util.ResourceBundle;
@@ -122,10 +126,40 @@ public class UserController implements Initializable {
                         for(Version ver: metaGame.versions){
                             if(Objects.equals(ver.id, name_ver[1])){
                                 play.setOnAction((ActionEvent evt)->{
-                                    System.out.println(ver.url_nativs_macos);
-                                    System.out.println(ver.url_nativs_windows);
+                                    String local_url = null;
                                     //System.out.println(System.getProperty("os.arch"));
-                                    System.out.println(System.getProperty("os.name"));
+                                    if(System.getProperty("os.name").contains("Mac")){
+                                        local_url = ver.url_nativs_macos;
+                                    } else if (System.getProperty("os.name").contains("Win")){
+                                        local_url = ver.url_nativs_windows;
+                                    }
+                                    try {
+                                        assert local_url != null;
+                                        String local_file = Main.readFromUrl(local_url, "versions");
+
+                                        String jvm_location;
+                                        if (System.getProperty("os.name").startsWith("Win")) {
+                                            jvm_location = System.getProperties().getProperty("java.home") + File.separator + "bin" + File.separator + "java.exe";
+                                        } else {
+                                            jvm_location = System.getProperties().getProperty("java.home") + File.separator + "bin" + File.separator + "java";
+                                        }
+
+                                        String[] client = {jvm_location, "-jar", local_file};
+                                        Process proc = new ProcessBuilder(client)
+                                                .directory(new File(Main.dataDir).getAbsoluteFile())
+                                                .start();
+
+                                        InputStream out = proc.getInputStream();
+                                        Stage stage = new Stage();
+                                        Parent log = FXMLLoader.load(Objects.requireNonNull(this.getClass().getResource("/log.fxml")));
+                                        Scene scene = new Scene(log, 640, 480);
+                                        scene.setUserData(out);
+                                        stage.setTitle("Game output");
+                                        stage.setScene(scene);
+                                        stage.show();
+                                    } catch (IOException e) {
+                                        Main.LOGGER.trace(e);
+                                    }
                                 });
                             }
                         }

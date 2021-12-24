@@ -19,6 +19,10 @@ import org.apache.logging.log4j.Logger;
 import java.io.*;
 import java.lang.reflect.Type;
 import java.net.URL;
+import java.nio.channels.Channels;
+import java.nio.channels.ReadableByteChannel;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Objects;
 import java.util.UUID;
@@ -43,13 +47,13 @@ public class Main {
         }
     }
 
-    public static void writeFile(String name, String value){
-        File directory = new File(dataDir);
+    public static void writeFile(String path, String name, String value){
+        File directory = new File(Paths.get(dataDir, path).toString());
         if (! directory.exists()){
             directory.mkdirs();
         }
 
-        File file = new File(dataDir + "/" + name);
+        File file = new File(Paths.get(dataDir, path, name).toString());
         try{
             FileWriter fw = new FileWriter(file.getAbsoluteFile());
             BufferedWriter bw = new BufferedWriter(fw);
@@ -62,7 +66,7 @@ public class Main {
     }
 
     public static <T> T readJson(String name, Class<T> classOfT) throws IOException{
-        File file = new File(dataDir + "/" + name);
+        File file = new File(Paths.get(dataDir, name).toString());
         Gson gson = new Gson();
         FileReader fr = new FileReader(file.getAbsoluteFile());
         BufferedReader br = new BufferedReader(fr);
@@ -80,5 +84,16 @@ public class Main {
         Object object = gson.fromJson(data, (Type) classOfT);
         br.close();
         return Primitives.wrap(classOfT).cast(object);
+    }
+
+    public static String readFromUrl(String url, String path) throws IOException {
+        String fileName = url.substring( url.lastIndexOf('/')+1);
+        String file_path = Paths.get(dataDir, path, fileName).toString();
+
+        ReadableByteChannel rbc = Channels.newChannel(new URL(url).openStream());
+        FileOutputStream fos = new FileOutputStream(file_path);
+        fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
+        Main.LOGGER.info("Saving "+fileName+" to "+file_path);
+        return file_path;
     }
 }

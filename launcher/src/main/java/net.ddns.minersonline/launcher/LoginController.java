@@ -48,7 +48,7 @@ public class LoginController {
             Parent login = FXMLLoader.load(Objects.requireNonNull(this.getClass().getResource("/user.fxml")));
             Scene scene = new Scene(login, 640, 480);
 
-            Main.writeFile("userCache.json", json);
+            Main.writeFile("", "userCache.json", json);
 
             Main.primaryStage.setScene(scene);
             Main.primaryStage.show();
