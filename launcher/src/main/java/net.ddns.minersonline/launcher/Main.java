@@ -87,6 +87,11 @@ public class Main {
     }
 
     public static String readFromUrl(String url, String path) throws IOException {
+        File directory = new File(Paths.get(dataDir, path).toString());
+        if (! directory.exists()){
+            directory.mkdirs();
+        }
+
         String fileName = url.substring( url.lastIndexOf('/')+1);
         String file_path = Paths.get(dataDir, path, fileName).toString();
 
