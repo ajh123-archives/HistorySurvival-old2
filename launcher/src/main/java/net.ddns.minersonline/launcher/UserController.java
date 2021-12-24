@@ -144,7 +144,7 @@ public class UserController implements Initializable {
                                             jvm_location = System.getProperties().getProperty("java.home") + File.separator + "bin" + File.separator + "java";
                                         }
 
-                                        String[] client = {jvm_location, "-jar", local_file};
+                                        String[] client = {jvm_location, "-XstartOnFirstThread", "-jar", local_file};
                                         Process proc = new ProcessBuilder(client)
                                                 .directory(new File(Main.dataDir).getAbsoluteFile())
                                                 .start();
