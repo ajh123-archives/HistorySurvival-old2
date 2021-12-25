@@ -20,6 +20,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.URL;
+import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.Objects;
 import java.util.ResourceBundle;
 
@@ -135,16 +137,29 @@ public class UserController implements Initializable {
                                     }
                                     try {
                                         assert local_url != null;
-                                        String local_file = Main.readFromUrl(local_url, "versions");
+                                        Main.readFromUrl(local_url, "versions");
+                                    } catch (IOException e) {
+                                        Main.LOGGER.trace(e);
+                                    }
+                                    try {
+                                        String fileName = local_url.substring( local_url.lastIndexOf('/')+1);
+                                        String local_file = Paths.get(Main.dataDir, "versions", fileName).toString();
 
                                         String jvm_location;
+                                        String[] client;
+
                                         if (System.getProperty("os.name").startsWith("Win")) {
                                             jvm_location = System.getProperties().getProperty("java.home") + File.separator + "bin" + File.separator + "java.exe";
                                         } else {
                                             jvm_location = System.getProperties().getProperty("java.home") + File.separator + "bin" + File.separator + "java";
                                         }
-
-                                        String[] client = {jvm_location, "-XstartOnFirstThread", "-jar", local_file};
+                                        if (System.getProperty("os.name").startsWith("Mac")) {
+                                            String extra_args = "-XstartOnFirstThread";
+                                            client = new String[]{jvm_location, extra_args, "-jar", local_file};
+                                        } else {
+                                            client = new String[]{jvm_location, "-jar", local_file};
+                                        }
+                                        
                                         Process proc = new ProcessBuilder(client)
                                                 .directory(new File(Main.dataDir).getAbsoluteFile())
                                                 .start();
